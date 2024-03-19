@@ -1,3 +1,5 @@
+![Render using JLCPCB's PCBA visualiser](/dongle_image_jlcpcb.png?raw=true "Render using JLCPCB's PCBA visualiser because KiCAD doesn't have the MOLEX USB connector 3d model")
+
 This is an attempt to make as miniature of a dongle for ZMK as is realistically possible. PCB size: 20.66mmx11.3mm
 
 By realistically, I mean to not be completely unaffordable to produce. 
