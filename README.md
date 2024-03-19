@@ -7,4 +7,6 @@ Despite my best efforts, it turns out to be financially unviable for PCBA -- in 
 
 However, it should be perfectly fine for someone who has a hot plate and happens to be ordering parts from a site such as digikey/mouser already. If someone has a reflow oven and wants me to design a version that has components on both sides, let me know.
 
+Note that the PCB antenna trace width to get the correct impedence was calculated using JLCPCB's tool, so I cannot recommend ordering this from anywhere else without first redoing said calculation and adjusting the width appropriately.
+
 Disclaimer: I am not a professional RF engineer, I merely followed the schematics on the datasheets for the components as closely as possible. I am fairly confident that it works, but there is always the chance of an error as it has not been tested.
